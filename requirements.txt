@@ -1,0 +1,10 @@
+# Django basic
+Django==5.1.1
+# Enviroment variables management
+python-dotenv==1.0.1
+# Django rest framework
+djangorestframework==3.15.2
+# Django rest framework filter support
+django-filter==24.3
+# Django rest framework markdown support
+Markdown==3.7
